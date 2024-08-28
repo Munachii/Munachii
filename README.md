@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Munachii
-- 👀 I’m interested in games
 - 🌱 I’m currently learning html, css, js
-- 💞️ I’m looking to collaborate on something don't know yet..
 - 📫 How to reach me @yonyenze1@gmail.com
 
 <!---
