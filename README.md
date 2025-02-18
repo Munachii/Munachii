@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Munachii
-- 🌱 I’m currently learning react.js and python!
+- 🌱 I’m currently learning react.js and java!
 - 📫 How to reach me https://www.linkedin.com/in/yolanda-onyenze-ym0/
 
 <!---
